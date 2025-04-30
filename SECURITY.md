@@ -1,6 +1,6 @@
 # Security
 
-## Guidelines
+## Guidelinesyes
 
 Developers of 3D Slicer assume that the application is used in a trusted environment, by trusted people, on trusted data.
 
